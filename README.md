@@ -19,18 +19,18 @@ Mohamed
 I'm a full stack developer...
 
 
-![Logo](https://upkareno.sonorcastle.com/img/upkareno.png)
+![Logo]([https://upkareno.sonorcastle.com/img/upkareno.png](https://matrixacademy.net/assets/img/Matrix-Acc-Logo.svg))
 
 
 ## 🛠 Skills
-React Native & JS , HTML, CSS , PHP/Laravel , NodeJs...
+React Native & JS, HTML, CSS, PHP/Laravel, NodeJs...
 
 ## ⚡️ Stats 
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=shopnaill&theme=blux&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
 
-## Other Common Github Profile Sections
+## Other Common GitHub Profile Sections
 👩‍💻 I'm currently working on...
 
 🧠 I'm currently learning...
