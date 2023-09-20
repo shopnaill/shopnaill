@@ -25,9 +25,10 @@ I'm a full stack developer...
 ## 🛠 Skills
 React Native & JS, HTML, CSS, PHP/Laravel, NodeJs...
 
-## ⚡️ Stats 
+## ⚡️ My GitHub Stats 
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=shopnaill&theme=highcontrast&hide_border=true&card_width=500)](https://git.io/streak-stats)
+
 
 ## Other Common GitHub Profile Sections
 👩‍💻 I'm currently working on...
