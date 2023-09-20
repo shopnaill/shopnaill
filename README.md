@@ -27,8 +27,7 @@ React Native & JS, HTML, CSS, PHP/Laravel, NodeJs...
 
 ## ⚡️ Stats 
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=shopnaill&theme=blux&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
-
+[![GitHub Streak](https://streak-stats.demolab.com?user=shopnaill&theme=highcontrast&hide_border=true&card_width=500)](https://git.io/streak-stats)
 
 ## Other Common GitHub Profile Sections
 👩‍💻 I'm currently working on...
