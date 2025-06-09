@@ -1,52 +1,59 @@
+# 👋 Hi, I'm Mohamed!
 
-# Hi, I'm Mohamed! 👋
+I'm a passionate **Full-Stack Web Developer** from Egypt with over **7 years of experience** building robust and scalable web applications. I specialize in creating seamless user experiences and efficient back-end systems. I'm fluent in English, available for full-time opportunities, and excited to collaborate on innovative projects!
 
-I am Mohamed from Egypt and have been working as web full-stack developer for 5+ years
-I can work full - time and fluent in English.
-
-I hope to have an opportunity to work with you!
-
-Best Regards 👋.
-
-Mohamed
-## 🔗 Links
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://upkareno.sonorcastle.com/)
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamed-mostafa1999/)
-[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Upkarenu)
-
+---
 
 ## 🚀 About Me
-I'm a full stack developer...
 
+- 💻 **Full-Stack Developer** with expertise in both front-end and back-end technologies.
+- 🌍 Based in Egypt, open to remote and global opportunities.
+- 🎯 Passionate about writing clean, maintainable code and solving real-world problems.
+- 📚 Always learning and staying updated with the latest industry trends.
 
-![Logo](https://matrixacademy.net/assets/img/Matrix-Acc-Logo.svg)
-
+---
 
 ## 🛠 Skills
-React Native & JS, HTML, CSS, PHP/Laravel, NodeJs...
 
-## ⚡️ My GitHub Stats 
+- **Frontend**: React Native, JavaScript, HTML, CSS, Tailwind CSS
+- **Backend**: Node.js, PHP/Laravel, Express.js
+- **Databases**: MySQL, MongoDB
+- **Tools & Platforms**: Git, Docker, AWS, Webpack
+- **Other**: RESTful APIs, GraphQL, CI/CD, Agile methodologies
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=shopnaill&theme=highcontrast&hide_border=true&card_width=500)](https://git.io/streak-stats)
+---
 
+## 🔗 Connect with Me
 
-## Other Common GitHub Profile Sections
-👩‍💻 I'm currently working on...
+---
 
-🧠 I'm currently learning...
+## 💼 What I'm Up To
 
-👯‍♀️ I'm looking to collaborate on...
+- 👩‍💻 **Currently working on**: Building a cross-platform mobile app using React Native.
+- 🧠 **Currently learning**: Advanced TypeScript and serverless architectures.
+- 👯‍♀️ **Looking to collaborate on**: Open-source projects related to web development or mobile apps.
+- 🤔 **Seeking help with**: Optimizing WebSocket performance for real-time applications.
+- 💬 **Ask me about**: Full-stack development, Laravel, or React Native!
 
-🤔 I'm looking for help with...
+---
 
-💬 Ask me about...
+## 📊 My GitHub Stats
 
-📫 How to reach me...
+![GitHub Streak](https://streak-stats.demolab.com?user=shopnaill&theme=highcontrast&hide_border=true&card_width=500)
 
-😄 Pronouns...
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shopnaill&layout=compact&theme=highcontrast)---
 
-⚡️ Fun fact...
+## 📫 How to Reach Me
 
+- 📧 Email: mohamed1999250@gmail.com
+- 💬 DM me on LinkedIn or Twitter
 
+---
 
- 
+## 😄 Fun Fact
+
+I’m a coffee enthusiast and often code late into the night with a cup of Egyptian coffee by my side! ☕
+
+---
+
+![Matrix Academy Logo](https://matrixacademy.net/assets/img/Matrix-Acc-Logo.svg)
